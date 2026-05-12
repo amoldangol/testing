@@ -12,3 +12,10 @@ view the current active branch
 ```shell
 git branch 
 ```
+
+## merge branches
+navigate to the destination branch fx. if you want to merge to
+main branch move to main branch first with `git checkout main` and
+complete `git merge develop`
+```shell
+git merge <source_branch>
