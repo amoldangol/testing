@@ -18,6 +18,7 @@ navigate to the destination branch, if you want to merge to
 main branch move to main branch first
 ``shell
 git merge <soure-branch>
+``
 
 ## Contributor
 Amol 
